@@ -1,4 +1,4 @@
-seaboan
+seaborn
 pandas
 openai
 transformers
